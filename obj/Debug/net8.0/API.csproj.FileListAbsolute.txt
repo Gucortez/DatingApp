@@ -121,3 +121,8 @@ C:\Users\corte\Downloads\DateApp\API\obj\Debug\net8.0\API.pdb
 C:\Users\corte\Downloads\DateApp\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\corte\Downloads\DateApp\API\obj\Debug\net8.0\ref\API.dll
 C:\Users\corte\Downloads\DateApp\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
