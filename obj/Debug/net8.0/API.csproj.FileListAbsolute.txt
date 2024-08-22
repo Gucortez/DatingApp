@@ -126,3 +126,6 @@ C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Js
 C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\corte\Downloads\DateApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
