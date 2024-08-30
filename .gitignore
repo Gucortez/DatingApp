@@ -5,3 +5,14 @@ obj/Debug/net8.0/API.AssemblyInfo.cs
 obj/Debug/net8.0/API.AssemblyInfoInputs.cache
 dating.db-shm
 dating.db-wal
+obj/Debug/net8.0/API.dll
+obj/Debug/net8.0/API.sourcelink.json
+obj/Debug/net8.0/apphost.exe
+obj/Debug/net8.0/ref/API.dll
+obj/Debug/net8.0/refint/API.dll
+obj/Debug/net8.0/API.pdb
+obj/Debug/net8.0/API.AssemblyInfoInputs.cache
+obj/Debug/net8.0/API.AssemblyInfo.cs
+bin/Debug/net8.0/API.pdb
+bin/Debug/net8.0/API.exe
+bin/Debug/net8.0/API.dll
